@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset =" UTF-8">    
+<title> Mon CV </title> 
+<link rel="stylesheet"  href ="style.css">
+</head>
+<body>
+<div class="container">
+<div class="left" >
+    <div class="profile-photo">
+       <img src ="PHOTO VIDE.jpg" alt ="photo de profil">    
+    </div>   
+    <div class="section">
+      <h3>CONTACT</h3>  
+      <p> Email: tahirialaouihajar@gmail.com</p> 
+      <p> Téléphone : 0696479042 </p> 
+      <p> Adresse : Ourzazate , Maroc </p>
+      <p> Date de naissance : 23/12/2007 </p>
+    </div>
+    <div class="section">
+        <h3>PROFIL </h3>
+        <p>  Étudiante en intelligence artificielle, motivée et rigoureuse, à la recherche d'un emploi étudiant pour développer mes  compétences.
+        </p>
+    </div>
+    <div class="section">
+            <h3>LANGUES</h3>
+            <p>Arabe - 100% </p>
+            <p> Anglais - 70% </p>
+            <p>Français - 70% </p>
+    </div>
+    <div class="section">
+        <h3> COMPÉTENCES</h3>
+        <ul>
+           <li> HTML / CSS </li>
+           <li> Python </li>
+           <li> Excel / Word </li>
+           <li> Travail d'équipe et compétances en communication </li>
+           <li> Pensée analytique </li>
+           <li> Créativité </li>
+
+        </ul>
+    </div> 
+</div>
+<div class="right">
+    <h1> HAJAR TAHIRI ALAOUI </h1>
+    <h2>STAGE / JOB ÉTUDIANT</h2>
+        <div class="section">
+            <h3> FORMATION </h3>
+            <p><strong>Baccalauréat Scientifique </strong> <br>  TINGHIR - lycée Salah Eddine Al Ayoubi (2024/2025)</p> 
+            <ul>
+                <li> Mention Bien </li>
+                <li> Option Sciences Mathématiques A </li>
+            </ul>
+            <p> <strong>Une année d'étude en Intelligence Artificielle et Ingénierie de Logiciels</strong> <br> OURZAZATE - UNIVERSITÉ IBN ZOHR (2025/2026)</p>    
+            <ul>  
+                <li>Python/C </li>
+                <li> Prgrammation  web </li>
+                <li> Le traitement de signal </li>
+                <li> Les maths ( Analyse / Algèbre )</li>
+            </ul>
+        </div>
+    <div class="section">
+            <h3> CENTRES D'INTÉRÊT </h3>   
+            <ul>
+                <li> Jeux de stratégie(échecs) </li>
+                <li> Pratique de l'equitation </li>
+                <li> Théâtre et prise de parole en public </li>
+                <li> Lecture et analyse de romans </li>
+            </ul> 
+        </div>         
+    <div class = "section">
+        <h3> EXPÉRIENCES </h3>
+        <ul>
+    <li>Projets académiques en programmation (Python / C)</li>
+    <li>Réalisation d'un CV en HTML/CSS</li>
+    <li>Engagement à une conférence nationale APT2C sous le thème : La parole aux apprenants et aux apprenantes</li>
+    <li>Participation et qualification au niveau régional au compétition  d'art oratoire pour l'année 2023/2024</li>
+    <li>Participation à la Journée mondiale des océans pour l'année 2024/2025</li>
+    <li>Implication à des conférences visant l'intégration des projets innovants dans le domaine de l'intelligence artificielle</li>
+        </ul>
+    </div>
+
+</div>
+</div>
+</body>
+</html>
